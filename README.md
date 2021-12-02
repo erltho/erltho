@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erltho
 - 👀 I’m interested in IaC, software development and security
-- 🌱 I’m currently learning python, java, go and terraform
+- 🌱 I’m currently learning python, go and terraform
 - 💞️ I’m looking to collaborate on terraform providers
 - 📫 How to reach me: erlendthorsrud@gmail.com, [linkedIn](www.linkedin.com/in/erlend-thorsrud)
 
